@@ -7,3 +7,8 @@ Unlike ready-made functions or libraries, a pattern cannot simply be taken and c
 <i>In short: Design patterns (or templates) describe typical ways to solve common problems in software design.</i>
 <br><br>
 In this repository, I will be studying design patterns with examples in PHP
+<br><br>
+<strong>Patterns</strong>
+<br>
+Factory method (./factory-method)
+
